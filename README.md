@@ -36,13 +36,7 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 3° seme
 
 <br>
 
-<h2> 🎯 MVP 
-<h4> Visão do Cliente </h4>
-<!--<img src="docs/cliente_mvp.gif"/>-->
-<h4> Visão do Atendente </h4>
-<!--<img src="docs/atendente_mvp.gif"/>-->
-<h4> Visão do Administrador </h4>
-<!--<img src="docs/adm_mvp.gif"/>-->
+<!-- <h2> 🎯 MVP </h2> -->
 
 <br>
 
@@ -52,10 +46,11 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 3° seme
 
 <br>
 
-<h2> Épicos (Requisitos Funcionais) </h2>
-
 <h2> 📜 Backlog Total </h2>
-
+<h3> Épicos (Requisitos Funcionais) </h3>
+<img src="./Docs/Epicos.png"/> 
+<h3> User Stories </h3>
+<img src="./Docs/UserStories.png"/>
 <br>
 
 <h2> DoR e DoD </h2>
