@@ -2,6 +2,9 @@
 <br id="topo">
 
 <h1> FATEC Profº Jessen Vidal - São José dos Campos - 3º Semestre DSM </h1>
+
+<span id="sobre">
+    
 <h2> 📑 Sobre o Projeto </h2>
 Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 3° semestre de Desenvolvimento de Software Multiplataforma (DSM). O objetivo do projeto é o desenvlvimento de uma solução para o gerenciamento de ativos de uma empresa. A plataforma deve conter informações detalhadas sobre ativos, cadastro e histórico de manutenções dos ativos e dashboard com indicativos relevantes sobre os ativos.
 
@@ -11,6 +14,8 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 3° seme
 
 <br>
 
+<span id="ferramentas">
+    
 <h3> :robot: Tecnologias utilizadas até o momento: </h3>
 
 <div align="center">
@@ -33,6 +38,8 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 3° seme
 
 <br>
 
+<span id="entregas">
+    
 <h2> 🚩 Sprints </h2>
 
 <table >
@@ -47,15 +54,15 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 3° seme
         <td> 1 </td>
         <td> 25/04 </td>
         <td> 14/04 </td>
-        <td> 🚧 </td>
-        <td> Em Andamento </td>
+        <td> <a href="https://github.com/Equipe-CodeLand/API-2024.1/wiki/API%E2%80%902024.1-%E2%80%90-Sprint-1">Acesse!</a></td>
+        <td> Finalizada </td>
     </tr>
      <tr align="center">
         <td> 2 </td>
         <td> 15/04 </td>
         <td> 05/05 </td>
         <td> 🚧 </td>
-        <td> - </td>
+        <td> Em andamento </td>
     </tr>
      <tr align="center">
         <td> 3 </td>
@@ -75,6 +82,8 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 3° seme
 
 <br>
 
+<span id="backlog">
+    
 <h2> 📜 Backlog Total </h2>
 <h3> Épicos (Requisitos Funcionais) </h3>
 <img src="./Docs/Epicos.png"/> 
@@ -102,7 +111,10 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 3° seme
     </tr>
     
 </table>
+
 <br>
+
+<span id="equipe">
 
 <h2> 👨‍💻 Equipe </h2>
     
