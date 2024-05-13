@@ -112,6 +112,9 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 3° seme
     
 </table>
 
+<h2> Padrão de commit </h2>
+<img src="./Docs/PadraoCommit.png"
+
 <br>
 
 <span id="equipe">
