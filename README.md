@@ -10,7 +10,7 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 3° seme
 
 <br>
 
-<h3> 📌 Status do projeto: Em progresso ⏳ </h3>
+<h3> 📌 Status do projeto: Concluído ✔️ </h3>
 
 <br>
 
@@ -75,8 +75,8 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 3° seme
         <td> 4 </td>
         <td> 27/05 </td>
         <td> 16/06 </td>
-        <td> 🚧 </td>
-        <td> Em andamento </td>
+        <td><a href="https://github.com/Equipe-CodeLand/API-2024.1/wiki/API%E2%80%902024.1-%E2%80%90-Sprint-4">Acesse!</a> </td>
+        <td> Finalizada </td>
     </tr>
 </table>
 
