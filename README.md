@@ -6,7 +6,7 @@
 <span id="sobre">
     
 <h2> 📑 Sobre o Projeto </h2>
-Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 3° semestre de Desenvolvimento de Software Multiplataforma (DSM). O objetivo do projeto é o desenvlvimento de uma solução para o gerenciamento de ativos de uma empresa. A plataforma deve conter informações detalhadas sobre ativos, cadastro e histórico de manutenções dos ativos e dashboard com indicativos relevantes sobre os ativos.
+Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 3° semestre de Desenvolvimento de Software Multiplataforma (DSM). O objetivo do projeto é o desenvolvimento de uma solução para o gerenciamento de ativos de uma empresa. A plataforma deve conter informações detalhadas sobre ativos, cadastro e histórico de manutenções dos ativos e dashboard com indicativos relevantes sobre os ativos.
 
 <br>
 
