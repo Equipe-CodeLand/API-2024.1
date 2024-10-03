@@ -157,7 +157,7 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 3° seme
         <td> <a href="https://www.linkedin.com/in/eulauragabriel"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00A0B9'/> </a> </td>
         <td> <a href="https://github.com/eulauragabriel"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00A0B9'/> </a> </td>
     </tr>
-  <tr>
+    <tr>
      <td> <img src="https://avatars.githubusercontent.com/u/110743347?v=4" alt="ft de perfil" height="32px" width="32px"> </td>
           <td> Dev Team </td>
           <td> Letícia Helena de Oliveira Carvalho </td>
